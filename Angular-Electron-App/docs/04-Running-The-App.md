@@ -6,3 +6,6 @@ In the VS code terminal run:
 
 `npm run electron`
 
+And voila
+
+![Alt](electron-running.png "Electron Running")
